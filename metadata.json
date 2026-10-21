@@ -1,0 +1,6 @@
+{
+  "name": "Sabores Andinos - AndiCookies",
+  "description": "Sitio web oficial de Sabores Andinos S.A.C. y AndiCookies: galletas de quinua y kiwicha rellenas de chocolate. Tienda online, nutrición, centro de políticas y canales oficiales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
